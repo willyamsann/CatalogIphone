@@ -30,6 +30,38 @@ const ListaProdutos = () => {
       estado: "Usado",
       descricao: "2 ano de garantia apple, aparelho Novo, lacrado",
     },
+    {
+      imagem:
+        "https://planoscelular.claro.com.br/medias/300Wx300H-productCard-17994-zero.png?context=bWFzdGVyfGltYWdlc3w2NTkwOHxpbWFnZS9wbmd8YUROakwyZ3lZUzg1TnpNME56QTJPRFUxT1RZMkx6TXdNRmQ0TXpBd1NGOXdjbTlrZFdOMFEyRnlaRjh4TnprNU5GOTZaWEp2TG5CdVp3fDk2NGUyZTM0ZDM1MzVhMTkyM2RiZjUyN2U1YWRjNzA0MzIwMzJlMmYyNjRiNDRhMWQ2MmUxNjhmZjA4Njc2OWQ",
+      titulo: "IPhone 13",
+      valor: 1900,
+      estado: "Usado",
+      descricao: "2 ano de garantia apple, aparelho Novo, lacrado",
+    },
+    {
+      imagem:
+        "https://planoscelular.claro.com.br/medias/300Wx300H-productCard-17994-zero.png?context=bWFzdGVyfGltYWdlc3w2NTkwOHxpbWFnZS9wbmd8YUROakwyZ3lZUzg1TnpNME56QTJPRFUxT1RZMkx6TXdNRmQ0TXpBd1NGOXdjbTlrZFdOMFEyRnlaRjh4TnprNU5GOTZaWEp2TG5CdVp3fDk2NGUyZTM0ZDM1MzVhMTkyM2RiZjUyN2U1YWRjNzA0MzIwMzJlMmYyNjRiNDRhMWQ2MmUxNjhmZjA4Njc2OWQ",
+      titulo: "IPhone 13",
+      valor: 1900,
+      estado: "Usado",
+      descricao: "2 ano de garantia apple, aparelho Novo, lacrado",
+    },
+    {
+      imagem:
+        "https://planoscelular.claro.com.br/medias/300Wx300H-productCard-17994-zero.png?context=bWFzdGVyfGltYWdlc3w2NTkwOHxpbWFnZS9wbmd8YUROakwyZ3lZUzg1TnpNME56QTJPRFUxT1RZMkx6TXdNRmQ0TXpBd1NGOXdjbTlrZFdOMFEyRnlaRjh4TnprNU5GOTZaWEp2TG5CdVp3fDk2NGUyZTM0ZDM1MzVhMTkyM2RiZjUyN2U1YWRjNzA0MzIwMzJlMmYyNjRiNDRhMWQ2MmUxNjhmZjA4Njc2OWQ",
+      titulo: "IPhone 13",
+      valor: 1900,
+      estado: "Usado",
+      descricao: "2 ano de garantia apple, aparelho Novo, lacrado",
+    },
+    {
+      imagem:
+        "https://planoscelular.claro.com.br/medias/300Wx300H-productCard-17994-zero.png?context=bWFzdGVyfGltYWdlc3w2NTkwOHxpbWFnZS9wbmd8YUROakwyZ3lZUzg1TnpNME56QTJPRFUxT1RZMkx6TXdNRmQ0TXpBd1NGOXdjbTlrZFdOMFEyRnlaRjh4TnprNU5GOTZaWEp2TG5CdVp3fDk2NGUyZTM0ZDM1MzVhMTkyM2RiZjUyN2U1YWRjNzA0MzIwMzJlMmYyNjRiNDRhMWQ2MmUxNjhmZjA4Njc2OWQ",
+      titulo: "IPhone 13",
+      valor: 1900,
+      estado: "Usado",
+      descricao: "2 ano de garantia apple, aparelho Novo, lacrado",
+    },
   ];
 
   const ordenarProdutos = (tipoOrdenacao: React.SetStateAction<string>) => {
